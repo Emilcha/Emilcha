@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++, OpenGL and Assembly.**
 
-- 👨‍💻 All of my projects are available [here !](../../../)
+- 👨‍💻 My goal for this year is to make a nice github page and learn webdev basics !
 
 - 💬 Ask me about **python and pygame.**
 
