@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emilcha</h1>
-<h3 align="center">A highschool student from Lyon in France</h3>
+<h3 align="center">A university student from Lyon in France</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=emilcha&label=Profile%20views&color=03c0c0&style=flat" alt="emilcha" /> </p>
 
-- 🔭 I’m currently working on [Kavale: Dédale](../../../KavaleDedale)
+- 🔭 I’m currently working on my BUT !
 
 - 🌱 I’m currently learning **C++, OpenGL and Assembly.**
 
